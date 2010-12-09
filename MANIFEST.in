@@ -1,0 +1,3 @@
+include usmuddlus/config/deployment.ini_tmpl
+recursive-include usmuddlus/public *
+recursive-include usmuddlus/templates *
